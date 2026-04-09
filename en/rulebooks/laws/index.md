@@ -4,6 +4,8 @@ title: Road traffic act
 
 [**🇧🇬 За версия на български натиснете тук. 🇧🇬**](/bg/rulebooks/laws/)
 
+**This page's contents are outdated after changes to the law from 2025 and will be updated in the future.**
+
 Source: Bulgarian Ministry of Foreign Affairs
 
 - [Link 1](https://www.mfa.bg/upload/649/09-ZDvP-bg-en.pdf)
