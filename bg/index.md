@@ -13,7 +13,7 @@ title: За проекта
   - [Удобство](#удобство)
   - [Отчетност](#отчетност)
 
-## [Легенда](https://map.velosofize.com/legend/bg/cyclosm_legend.html)
+## [Легенда](https://map.old.velo-sofia.com/legend/bg/cyclosm_legend.html)
 
 ## Интерактивна карта в Google Maps
 

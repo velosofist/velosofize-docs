@@ -13,7 +13,7 @@ title: About the project
   - [User-friendly](#user-friendly)
   - [Accountable](#accountable)
 
-## [Legend](https://map.velosofize.com/legend/en/cyclosm_legend.html)
+## [Legend](https://map.old.velo-sofia.com/legend/en/cyclosm_legend.html)
 
 ### Interactive map
 

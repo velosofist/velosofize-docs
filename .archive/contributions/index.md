@@ -2,11 +2,11 @@
 title: How can I contribute?
 ---
 
-## Blog (docs.velosofize.com)
+## Blog (docs.old.velo-sofia.com)
 
 See [this page](blog/)
 
-## Map (map.velosofize.com)
+## Map (map.old.velo-sofia.com)
 
 ### Routes
 
